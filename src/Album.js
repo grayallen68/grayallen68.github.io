@@ -89,7 +89,7 @@ export default function Album() {
             <Typography variant="h5" align="center" color="text.secondary" paragraph>
               This web page is dedicated to a big project currently in the works. 
               I'm an artist that does character design and paintings so please feel free 
-              to take a look at some of my work below. Hint: these will be integral in the upcoming project!
+              to take a look at some of my work bellow. Hint: these will be integral in the upcoming project!
             </Typography>
             <Stack
               sx={{ pt: 4 }}
